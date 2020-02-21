@@ -5,9 +5,9 @@ import axios from 'axios'
 
 class InputLine extends React.Component {
     state = {
-        title: '',
-        code: '',
-        id: 0,
+        title: this.props.title,
+        code: this.props.code,
+        id: this.props.id,
         meta: {disabled: true}
 
     };
@@ -29,7 +29,7 @@ class InputLine extends React.Component {
                 <Input label="Code" value={this.state.code} change={this.changeCode}  {...this.state.meta} />
                 <button className= {`ui ${this.isDisabled() ?  'primary' : 'negative' } basic button`}
                         onClick={()=>{
-                            if(this.state.meta.disabled){
+                            if(!this.state.meta.disabled){
                                 let params = {
                                     title: this.state.title,
                                     code: this.state.code,
