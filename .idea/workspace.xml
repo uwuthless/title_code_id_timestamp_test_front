@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22fd4c60-0a6f-45e0-9e01-1a0c0a74c306" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/AddRecordButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/InputLine.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/InputLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/InputLine.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,12 +79,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582107535200</updated>
-      <workItem from="1582107536933" duration="7369000" />
+      <workItem from="1582107536933" duration="8446000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit, 4 fields, button to disable, enable inputs, semantic ui engaged">
+      <created>1582287253413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582287253414</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit, 4 fields, button to disable, enable inputs, semantic ui engaged" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit, 4 fields, button to disable, enable inputs, semantic ui engaged" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582287173694">
@@ -100,26 +107,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1582107844975" />
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1582287159775">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1582287252521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582287159775" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1582287207824">
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582287252521" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1582287315420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582287207824" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1582287207824">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582287315420" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1582287315419">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582287207824" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1582287207824">
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582287315419" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1582287315419">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582287207824" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1582287207824">
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582287315419" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1582287315420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582287207824" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582287315420" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1582287085002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
